@@ -1,0 +1,2 @@
+# TrendyolDeneme
+Deneme
